@@ -14,6 +14,10 @@ Yeah, you can do that too, but this way, you can see each library's header files
 neatly packaged inside the XXX.framework entry in Xcode's project sidebar.  You
 don't have to add the headers manually.
 
+## Can't you just set ARC/non-ARC compiler flags per-file?
+
+Please go get laid.  Or buy some lottery tickets or something.  Go nuts.
+
 ## Authors
 
 bryn austin bellomy (all I did was build these as .framework
