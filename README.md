@@ -21,11 +21,11 @@ Please go get laid.  Or buy some lottery tickets or something.  Go nuts.
 ## Authors
 
 bryn austin bellomy (all I did was build these as .framework
-libraries -- no code was changed whatsoever)
-pokeb (for [ASIHTTPRequest][ASIHTTPRequest])
-robbiehanson (for [GCDAsyncSocket][GCDAsyncSocket])
-johnezang (for [JSONKit][JSONKit])
-samvermette (for [SVProgressHUD][SVProgressHUD])
+libraries -- no code was changed whatsoever)  
+pokeb (for [ASIHTTPRequest][ASIHTTPRequest])  
+robbiehanson (for [GCDAsyncSocket][GCDAsyncSocket])  
+johnezang (for [JSONKit][JSONKit])  
+samvermette (for [SVProgressHUD][SVProgressHUD])  
 
 [ASIHTTPRequest]: https://github.com/pokeb/asi-http-request
 [GCDAsyncSocket]: https://github.com/robbiehanson/CocoaAsyncSocket
