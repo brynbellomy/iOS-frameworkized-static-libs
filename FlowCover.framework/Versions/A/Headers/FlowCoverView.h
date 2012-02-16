@@ -84,6 +84,7 @@ woody@chaosinmotion.com. Chaos In Motion is at http://www.chaosinmotion.com
 @property (assign) id<FlowCoverViewDelegate> delegate;
 
 + (void)forceLinkerLoad_;
+- (void) refreshData;
 
 - (void)draw;					// Draw the FlowCover view with current state
 
